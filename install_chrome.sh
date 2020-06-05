@@ -27,6 +27,10 @@ sudo chmod +x /usr/bin/chromedriver
 
 # Install Selenium
 pip install selenium
+pip install requests 
+pip install bs4
+pip install lxml 
+
 
 # Cleanup 
 
